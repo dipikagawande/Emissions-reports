@@ -1,5 +1,5 @@
 # Emissions-reports
-Designing quarterly report cards for 130+ textile dyeing and printing mills in collaboration with the Gujarat Pollution Control Board under India's first Emissions Trading Scheme project.
+Designing simple, bold and easy-to-understand quarterly report cards for 130+ textile dyeing and printing mills in collaboration with the Gujarat Pollution Control Board under India's first Emissions Trading Scheme project.
 
 ![Sample Industry Report Card - Mock-II](https://user-images.githubusercontent.com/36409429/232235960-b7186905-508b-42e6-bcb7-36e19c5a260c.jpg)
 
